@@ -1,0 +1,139 @@
+
+
+body{
+	margin:0;
+	padding:0;
+	background-color:#dcdbcc;
+	display: fixed;
+}
+
+#logo{
+	width:100%;
+}
+
+.navbar{
+	width: 100%;
+	border: solid;
+}
+
+ul{
+	list-style-type: none;
+	
+}
+
+li a{
+	text-decoration: none;
+	color: black;
+}
+
+.nav{
+	display: inline;
+	font-size: 4rem;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	padding: 1rem 6.5rem 1rem 5.5rem;
+	margin: 0rem -0.5rem 0rem 0rem;
+	border-left:solid;
+	border-right:solid;
+}
+
+#firstnav{
+	border-left:none;
+}
+
+#lastnav{
+	border-right:none;
+}
+
+.carousel{
+	margin-top: 3rem;
+}
+
+
+.location{
+	margin: 3rem 3rem 1rem 5rem;
+}
+
+.hours{
+	float: right;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	border-style: solid;
+	text-align: center;
+	margin: 0rem 5rem 1rem 0rem;
+	padding: 6rem;
+	height: 12.75rem;
+	width: 26rem;
+}
+
+footer{
+	background-color: #cccccc;
+	height: 10rem;
+	float: none;
+}
+
+.socialMedia{
+	float: right;
+}
+
+.categorybar{
+	margin-top: 3rem;
+	text-align: center;
+}
+
+.category{
+	display: inline;
+	font-size: 1rem;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	padding: 0rem 2rem 0rem 2rem;
+	margin: 0rem -1rem 0rem 0rem;
+	border-left:solid;
+	border-right:solid;
+	border-bottom: none;
+	border-width: thin;
+	background-color: #dcdbcc;
+}
+
+#firstCategory{
+	border:none;
+	background-color: #dcdbcc;
+}
+
+#lastCategory{
+	border:none;
+	background-color: #dcdbcc;
+}
+
+.item{
+	margin: 3rem;
+	text-align: center;
+}
+
+.about{
+	background-color: white;
+}
+
+.head{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+.body{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 2rem;
+}
+
+.service{
+	background-color: white;
+	width: 35%;
+	margin: 3rem 0rem 0rem 29rem;
+	border-radius: 1rem;
+	padding: 0rem 0rem 0rem 1rem;
+}
+
+.serv{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 2rem;
+}
+
+.logout{
+	margin: 3rem;
+}

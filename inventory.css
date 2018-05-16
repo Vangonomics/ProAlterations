@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body{
+	margin: 15rem 30rem 20rem 30rem;
+	background-color: darkslategrey;
+}
+
+form{
+	margin: 0rem 4rem 1rem 10rem;
+}
+	
+th{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+	
+td{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+	
+table{
+	border-radius: 10px;
+	border-width: 5px;
+	background-color: white;
+	padding: 1rem;
+}
+	
+p{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+	
+.submit{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+h3{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.edit{
+	border-radius: 10px;
+	border-width: 5px;
+	background-color: white;
+	padding: 1rem;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+	
